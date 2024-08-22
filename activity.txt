@@ -1,0 +1,3 @@
+Name: Ma. Sophia Bianca Mat-ao
+Course: IT2OA
+Activity: Basics of Git and Github  
